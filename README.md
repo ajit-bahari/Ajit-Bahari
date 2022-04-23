@@ -1,8 +1,8 @@
 - 👋 Hi, I’m [AJJU](https://t.me/i_Ajit)
 - 👀 I’m A STUDENT
-- 🌱 I’m currently learning 12TH
+- 🌱 I’m currently learning nhi bataunga
 
-## 🎯 **VIJU Github Stats**
+## 🎯 **𝙰𝚓𝚓𝚞 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜**
 ![Ajit-Bahari github stats](https://github-readme-stats.vercel.app/api?username=Ajit-Bahari&show_icons=true&theme=tokyonight)
 
 
